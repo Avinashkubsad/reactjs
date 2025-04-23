@@ -1,0 +1,3 @@
+<></>      --->    This is called Fragments.  
+                   This is used insted of div because multiple tags cannot be returned in app.js
+                   so Fragments can be used and in that we can use many tags.
